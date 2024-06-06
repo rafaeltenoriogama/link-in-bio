@@ -1,11 +1,10 @@
-Link-in-bio for Craftzdog
-=========================
+# Link-in-bio Project created based on DevAsLife
 
-https://links.craftz.dog/
+<https://links.craftz.dog/>
 
-![thumbnail](./thumb.jpg)
+![thumbnail](./thumn.png)
 
-[Video tutorial available here](https://youtu.be/u71pHOyvBp0).
+[Official video tutorial available here](https://youtu.be/u71pHOyvBp0).
 
 ## License
 
